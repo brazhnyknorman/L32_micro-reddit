@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a basic rails app that allowes Users to make Posts with basic Comment functionality
 
-Things you may want to cover:
+* Ruby version: ruby 3.3.0 (2023-12-25 revision 5124f9ac75) [x86_64-linux]
 
-* Ruby version
+* Rails version: 8.0.2
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Rack version: 3.1.16
