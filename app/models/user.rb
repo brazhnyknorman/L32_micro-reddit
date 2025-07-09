@@ -1,4 +1,6 @@
 class User < ApplicationRecord
+  has_many :posts
+
   validates :username, presence: true
   validates :username, uniqueness: true
   validates :username, length: { minimum: 3, maximum: 60 }
